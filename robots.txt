@@ -1,1 +1,1 @@
-Sitemap: https://LucyMcGowan.github.io/reims-causal/sitemap.xml
+Sitemap: https://LucyMcGowan.github.io/agstat-causal-workshop/sitemap.xml
